@@ -1,4 +1,4 @@
-#include<stdio.h>
+
 int n;
 struct process
 {
