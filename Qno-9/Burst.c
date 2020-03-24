@@ -14,7 +14,7 @@ int main()
 
              fscanf(fp, "%d", &bt[i]);
                if(bt[i]>0){
-             p[i]=i+1;  i++;}         
+             p[i]=i+1;  i++;}         //contains process number
     }
     n=i;
     for(i=0;i<n;i++)
